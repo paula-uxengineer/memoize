@@ -79,12 +79,6 @@ npm run jest
 npm run dev
 ```
 
-```vite```: Run the React library with Vite (make sure you are inside the directory of "front-end)
-
-```bash
-npm run vite
-```
-
 ### :wrench: Dependencies 
 
 - "react": "^18.2.0",
