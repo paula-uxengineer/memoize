@@ -1,8 +1,8 @@
 # Implementing Memoization in Fibonacci Calculation
 
->This README provides an overview of implementing memoization in a TypeScript project to optimize the calculation of Fibonacci numbers. It includes an explanation of the provided code snippet and its integration into the project structure.
+>In this project, memoize is applied to optimize the calculation of Fibonacci numbers, enhancing performance by storing previously computed values for later use.
 
-## :loudspeaker: How Memoization Works
+## :loudspeaker: How it works?
 
 Memoization is a technique used to cache the results of expensive function calls and reuse them when the same inputs occur again. In the context of the Fibonacci sequence calculation, memoization can significantly improve performance by storing previously computed Fibonacci numbers and retrieving them instead of recalculating.
 Memoization Method
